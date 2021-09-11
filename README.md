@@ -1,6 +1,6 @@
 # Password-Generator
 
-vaishnavi hapse
+Password Generator using JavaScript, CSS, HTML.
 
 
 
